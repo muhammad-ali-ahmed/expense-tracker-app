@@ -2,3 +2,26 @@ date,amount,category,description
 5-07-2024,40000,Income,Salary
 29-07-2024,250.0,Expense,BreakFast
 29-07-2024,4000.0,Expense,Random stuff
+10-07-2024,1500.0,Expense,Groceries
+15-07-2024,500.0,Income,Freelance
+20-07-2024,300.0,Expense,Transport
+25-07-2024,2000.0,Expense,Entertainment
+28-07-2024,4500.0,Expense,Shopping
+30-07-2024,1000.0,Expense,Utilities
+31-07-2024,3000.0,Income,Bonus
+1-08-2024,1200.0,Expense,Rent
+2-08-2024,150.0,Expense,Coffee
+3-08-2024,200.0,Expense,Snacks
+5-08-2024,2500.0,Expense,Car Maintenance
+6-08-2024,350.0,Expense,Books
+8-08-2024,900.0,Expense,Electricity Bill
+10-08-2024,1800.0,Expense,Dining Out
+12-08-2024,450.0,Income,Investment
+15-08-2024,3200.0,Income,Part-time Job
+18-08-2024,1100.0,Expense,Medical
+20-08-2024,200.0,Expense,Taxi
+22-08-2024,300.0,Expense,Parking
+24-08-2024,600.0,Expense,Internet Bill
+26-08-2024,700.0,Expense,Gas Bill
+28-08-2024,500.0,Expense,Subscription
+30-08-2024,1000.0,Income,Gift
